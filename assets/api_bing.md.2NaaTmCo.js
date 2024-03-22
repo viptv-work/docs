@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.EuUUSiZF.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/bing.md","filePath":"api/bing.md","lastUpdated":1709981367000}'),n={name:"api/bing.md"};function r(i,o,s,c,p,d){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
