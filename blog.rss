@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>VIPTV资源库</title>
+        <link>https://vodtv.cn/blog</link>
+        <description>开源百宝箱 - 简单, 强大, 快速, 无广告</description>
+        <lastBuildDate>Fri, 22 Mar 2024 03:28:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>cn</language>
+        <image>
+            <title>VIPTV资源库</title>
+            <url>https://vodtv.cn/og-image.png</url>
+            <link>https://vodtv.cn/blog</link>
+        </image>
+        <copyright>Copyright © 2019-present HE FUNG Contributors</copyright>
+    </channel>
+</rss>
